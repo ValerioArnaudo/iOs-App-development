@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Apple Pie
 //
-//  Created by Nesrine Kortas on 17.11.19.
-//  Copyright © 2019 Nesrine Kortas. All rights reserved.
+//  Created by Valerio Arnaudo on 17.11.19.
+//  Copyright © 2019 Valerio Arnaudo. All rights reserved.
 //
 
 import UIKit

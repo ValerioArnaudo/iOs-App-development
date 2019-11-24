@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Calculator
 //
-//  Created by Nesrine Kortas on 12.11.19.
-//  Copyright © 2019 Nesrine Kortas. All rights reserved.
+//  Created by Valerio Arnaudo on 12.11.19.
+//  Copyright © 2019 Valerio Arnaudos. All rights reserved.
 //
 
 import UIKit
